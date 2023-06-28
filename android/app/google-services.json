@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "602613772724",
+    "project_id": "todoflutter-5db46",
+    "storage_bucket": "todoflutter-5db46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602613772724:android:74c036880fc4d23aa7c2e1",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602613772724-0ahts01vvt91l143019vd892e9f3t88b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEHPCO7OUbgj8qr2ChbTiMrROj4llGGjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602613772724-0ahts01vvt91l143019vd892e9f3t88b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "602613772724-e73mig1p25prf5muo52u5cg7dq5apjtj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterTodo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602613772724:android:fd1cce8e1b1b88dda7c2e1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602613772724-0ahts01vvt91l143019vd892e9f3t88b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEHPCO7OUbgj8qr2ChbTiMrROj4llGGjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602613772724-0ahts01vvt91l143019vd892e9f3t88b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "602613772724-e73mig1p25prf5muo52u5cg7dq5apjtj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterTodo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
